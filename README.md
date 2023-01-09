@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there!
+
+- 👋 I’m Jui, a 3rd year Software Engineering student at the University of Waterloo.
+- 🚀 I recently worked as a Data Engineer at a medical start-up called [Deep Breathe](https://www.deepbreathe.ai/), helping to build their data infrastructure.
+- 🔭 I’m passionate about using Data and Software Engineering as a means to implement creative solutions, create positive change, and bring people together. 
+- 🌱 I’m currently learning more about Cloud technologies and implementing backends with Go.
+- ❤️ In my free time, I love to browse Pinterest, make iced coffees, and weightlift!
+- 💬 Spark a conversation with me on [![Linkedin Badge](https://img.shields.io/badge/-juishah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jui-shah-779513203/)](https://www.linkedin.com/in/jui-shah-779513203/)
 
 <!--
 **juishah14/juishah14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
